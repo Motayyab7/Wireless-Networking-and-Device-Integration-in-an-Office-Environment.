@@ -1,1 +1,22 @@
+During this project, I gained some valuable insights and practical experience in a few networking technologies and configurations. Here's what I learned:
 
+Wireless Module Installation:
+
+I now understand how to set up a wireless network module on a laptop. It includes replacing an Ethernet module with a wireless module on your notebook, which explained the procedure for migrating from a wired to a wireless connection.
+
+Connecting to WLAN:
+
+I practiced connecting a laptop to a wireless network (WLAN). I learned how to select the correct SSID, enter a pre-shared key, and verify successful network connectivity by obtaining an IP address and accessing a web resource.
+Bluetooth Technology:
+
+I also became familiar with the process of enabling and configuring Bluetooth ports on devices. This was in terms of pairing a Bluetooth speaker with an office tablet, setting its configuration in Bluetooth settings, and testing the connectivity by playing audio.
+Cellular Tethering:
+
+I learned how to configure a smartphone to share cellular network access with a laptop by using Bluetooth tethering. This entailed setting up Bluetooth and cellular settings on the smart phone, then connecting a laptop to the smartphone to verify access to the internet over a cellular network.
+Troubleshooting and Verification:
+
+I developed skills in troubleshooting and verifying connectivity, which included the utilization of simulation tools available within Packet Tracer to ensure that devices were correctly connected, communicating, and trouble-shooting issues associated with device discovery and configuration of the network.
+Network Configuration:
+
+I improved my understanding on network configuration practices in IP address assignment, wireless security settings, and pairing protocols for devices. Indeed, this practical work embedded knowledge of these key concepts in networking.
+This project gave me hands-on experience in managing and configuring wireless and cellular networks, enriching my understanding of modern networking technologies and their applications in a real-world office environment.
