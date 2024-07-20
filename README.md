@@ -57,3 +57,9 @@ I followed each step methodically to avoid missing configuration details.
 I used the Packet Tracer simulation tools to troubleshoot and verify connectivity as needed.
 I was patient when waiting for device discoveries and connections to establish.
 This project allowed me to enhance my understanding of network connectivity, device configuration, and the use of various wireless technologies in an office environment.
+
+Screenshot
+-
+
+![Project Screenshot](https://github.com/user-attachments/assets/c813e0a0-df88-41f6-9ea7-5653ae84cddc)
+
