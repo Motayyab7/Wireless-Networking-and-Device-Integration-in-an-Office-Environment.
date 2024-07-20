@@ -11,7 +11,9 @@ Connect a Laptop to the Office WLAN:
 I installed and configured a wireless network module on a laptop.
 I connected the laptop to a specified office wireless network (SSID).
 I verified network connectivity by obtaining an IP address and accessing a web resource.
+
 Connect Devices with Bluetooth Technology:
+-
 
 I enabled and configured Bluetooth ports on a Bluetooth speaker and an office tablet.
 I paired the Bluetooth speaker with the office tablet.
